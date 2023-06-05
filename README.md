@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello world! 👋
 
-<!--
-**Epersea/Epersea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Elisa Fernández and I'm a junior web developer based in Madrid, currently looking for opportunities in back end and full stack.
 
-Here are some ideas to get you started:
+I love logic and problem-solving and always try to incorporate best practices in my code. I'm currently learning about and practising TDD daily as part of a back end internship.
+### I currently have experience in...
+- JavaScript
+- Node/Express
+- Ruby
+- SQL
+- Python/Flask
+- HTML
+### And I would love to learn more about...
+- React
+- Non-relational databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# A bit about me
+I'm currently finishing a back end development internship at a startup, with a strong focus on TDD, mob and pair programming, Agile and best practices.
+
+I have a background in Advertising and English to Spanish translation, an industry where I have freelanced successfully for the best part of a decade. In 2021, I decided to try a programming course “just to see what it’s all about”. What I discovered was a big passion for all things coding that I'm now making into a career.
+
+After two years of coding consistently, I have completed several certifications, including CS50, Harvard’s introduction to Computer Science, where I received stellar grades, and a web-oriented coding bootcamp at Devscola, a coding school based in Valencia.
+
+I have applied my learnings to develop a personal project, Freelancer Helper, a web application using Flask and SQL which aims to help freelancers to get organized and earn more while working less. Please feel free to check my repo for the in-progress version 2.0 of this project, with an emphasis on good practices and a different tech stack (Node.js and Express). 
+
+Up to this point, I have absolutely loved my coding journey and I’m looking forward to keep learning and be challenged!
+
+[Check my full CV here](https://traduccionpublicidad.files.wordpress.com/2023/06/elisa-fernandez-coding-cv.pdf)
