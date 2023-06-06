@@ -12,7 +12,9 @@ I love logic and problem-solving and always try to incorporate best practices in
 - HTML
 ### And I would love to learn more about...
 - React
+- Typescript
 - Non-relational databases
+- Java, Go or other backend languages
 
 # A bit about me
 I'm currently finishing a back end development internship at a startup, with a strong focus on TDD, mob and pair programming, Agile and best practices.
