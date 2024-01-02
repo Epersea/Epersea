@@ -27,4 +27,4 @@ I have applied my learnings to develop a personal project, Freelancer Helper, a 
 
 Up to this point, I have absolutely loved my coding journey and I’m looking forward to keep learning and be challenged!
 
-[Check my full CV here](https://traduccionpublicidad.files.wordpress.com/2023/10/elisa-fernandez-coding-cv-1.pdf)
+[Check my full CV here](https://traduccionpublicidad.files.wordpress.com/2024/01/elisa-fernandez-coding-cv.pdf)
