@@ -2,7 +2,7 @@
 
 My name is Elisa Fernández and I'm a **backend software developer** based in Madrid. I have close to a year of experience working as a backend developer at a startup with a strong focus on TDD, Extreme Programming, Agile and best practices, using **Ruby** as my main language. 
 
-I'm currently looking for new job opportunities focused on **Ruby on Rails**, which I learned by developing [this personal project](https://github.com/Epersea/freelancer_helper_rails), a web application that helps freelancers get organized by knowing their desired rates and creating project and client registries.
+I'm currently working as a junior software developer with **Ruby on Rails**. I learned this technology by developing [this personal project](https://github.com/Epersea/freelancer_helper_rails), a web application that helps freelancers get organized by knowing their desired rates and creating project and client registries.
 
 Besides Ruby/Rails, I also have some experience in JavaScript/Node, Python/Flask and SQL, and of course I'm always open to learning new stacks and technologies.
 
