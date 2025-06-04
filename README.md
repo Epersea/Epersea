@@ -19,4 +19,4 @@ In 2021, I tried a coding course “just to see what this is all about” –and
 
 Up to this point, I have absolutely loved my coding journey and I’m looking forward to continuing to be challenged!
 
-[Check my full CV here](https://github.com/Epersea/Epersea/blob/main/ELISA%20FERN%C3%81NDEZ%20CV.pdf)
+[Check my full CV here](https://github.com/Epersea/Epersea/blob/main/ELISA%20FERN%C3%81NDEZ%20CODING%20CV.pdf)
