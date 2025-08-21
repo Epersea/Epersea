@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-My name is Elisa Fernández and I'm a **Ruby on Rails product developer** based in Madrid. I have close to two years of experience working in small product companies, where I have had the opportunity to wear many hats and develop my coding, communication and product skills.  
+My name is Elisa Fernández and I'm a **Ruby on Rails product developer** based in Madrid. I have several years of experience working in small product companies, where I have had the opportunity to wear many hats and develop my coding, communication and product skills.  
 
 I'm currently working as a Product Engineer with **Ruby on Rails** at SportsKey, an Irish company dedicated to helping the world play more sport with its software. I learned RoR by developing [this personal project](https://github.com/Epersea/freelancer_helper_rails), a web application that helps freelancers get organized by knowing their desired rates and creating project and client registries.
 
